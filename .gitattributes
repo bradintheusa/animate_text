@@ -1,5 +1,4 @@
+* linguist-vendored
 *.dart linguist-detectable=true
-windows/* linguist-vendored
-macso/* linguist-vendored
+ios/* linguist-vendored
 android/* linguist-vendored
-linux/* linguist-vendored
