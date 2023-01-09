@@ -1,3 +1,4 @@
-*.dart linguist-detectable=true
-ios/* linguist-detectable=false
-android/* linguist-detectable=false
+* linguist-vendored
+*.dart linguist-language=Flutter
+ios/* -linguist-detectable
+android/* -linguist-detectable
