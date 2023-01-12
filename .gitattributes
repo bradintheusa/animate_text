@@ -1,4 +1,4 @@
 * linguist-vendored
-*.dart linguist-language=Flutter
+*.dart linguist-language=Dart
 ios/* -linguist-detectable
 android/* -linguist-detectable
